@@ -1,1 +1,0 @@
-# vivo_y51_kernel
